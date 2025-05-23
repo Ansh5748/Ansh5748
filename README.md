@@ -81,15 +81,11 @@ headings, paragraphs, links, and meta information—from websites.
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ansh5748&label=Profile%20views&color=0e75b6&style=flat" alt="ansh5748" /> </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ansh5748&row=1&column=5" alt="ansh5748 trophies top row" />
-  </a>
-</p>
+
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ansh5748&row=1&column=4&margin-w=10&margin-h=10" alt="ansh5748 trophies second row" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ansh5748&row=2&column=4&margin-w=10&margin-h=10" alt="ansh5748 trophies second row" />
   </a>
 </p>
 
