@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Divyansh Gupta</h1>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Ansh5748/Ansh5748/main/divyansh.svg" alt="Divyansh Gupta" />
+</h1>
+
+<h3 align="center">🌟 Hi! Fasten your seatbelt — you're entering a zone of innovation.</h3>
 <h3 align="center">Full Stack Developer | Cybersecurity Evangelist | Cloud & DevOps Enthusiast </h3>
 <h3 align="center">Welcome to my digital sandbox! I architect secure, scalable web & mobile experiences, deploy cloud-native infrastructure, and champion open-source innovation. Let’s build the future—one commit at a time.</h3>
 
@@ -69,7 +73,7 @@ headings, paragraphs, links, and meta information—from websites.
 - 🌱 I’m currently learning **Model Training, AI Agent**
 
 
-### 📫 How to reach me **divyanshgupta5748@gmail.com**
+### 📫 How to reach me : [divyanshgupta5748@gmail.com](mailto:divyanshgupta5748@gmail.com)
 
 ### 📄 Know about my experiences [https://drive.google.com/file/d/1cYYLJxkGxbN7QbI4jR92uq9pIuOp4eLo/view?usp=sharing](https://drive.google.com/file/d/1cYYLJxkGxbN7QbI4jR92uq9pIuOp4eLo/view?usp=sharing)
 
@@ -109,3 +113,7 @@ headings, paragraphs, links, and meta information—from websites.
 </a>
 
 <h2 align="center">Made with ❤️ and ☕</h2>
+
+<p align="center">
+  <img src="bottom.svg" alt="Water Wave Animation" style="width: 100%; max-width: 600px;">
+</p>
