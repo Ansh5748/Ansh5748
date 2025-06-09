@@ -105,7 +105,7 @@ headings, paragraphs, links, and meta information—from websites.
 ## 😄 Liked it? Show some love!
 
 <a href="https://ko-fi.com/ansh28" target="_blank">
-  <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy me a Ko-fi" />
+  <img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </a>
 
 <h2 align="center">Made with ❤️ and ☕</h2>
