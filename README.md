@@ -72,6 +72,11 @@ headings, paragraphs, links, and meta information—from websites.
 
 - 🌱 I’m currently learning **Model Training, AI Agent**
 
+## 🔗 My Portfolio
+
+👉 [Visit My Portfolio](https://about-me-dg.netlify.app/) 
+
+---
 
 ### 📫 How to reach me : [divyanshgupta5748@gmail.com](mailto:divyanshgupta5748@gmail.com)
 
